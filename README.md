@@ -1,5 +1,9 @@
 # IBM Cloud User Deletion Tool
 
+Find your IBM Cloud API key here: (https://cloud.ibm.com/iam/apikeys)[https://cloud.ibm.com/iam/apikeys]
+
+Find your IBM Cloud account ID here: (https://cloud.ibm.com/account/settings)[https://cloud.ibm.com/account/settings]
+
 ![Preview](preview.png)
 
 ### To run the pre-built app:
