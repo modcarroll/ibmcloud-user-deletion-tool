@@ -140,6 +140,7 @@ def delete_users(token, deleteList, account_id):
             print(percent)
             progressbar['value'] = percent
             user = str(deleteList[person])
+            print(user)
             if(len(user) > 1):
                 delete_response = requests.delete(delete_url + user, headers=headers, timeout=50)
                 print(delete_response)
