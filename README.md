@@ -1,3 +1,5 @@
+![PyPI pyversions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue)
+
 # IBM Cloud User Deletion Tool
 
 Find your IBM Cloud API key here: [https://cloud.ibm.com/iam/apikeys](https://cloud.ibm.com/iam/apikeys)
